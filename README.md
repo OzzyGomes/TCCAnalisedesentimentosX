@@ -44,18 +44,6 @@
         <li><strong>XGBoost</strong>: <img src="./Petrobras XGBoost.png" alt="Petrobras XGBoost" /></li>
     </ul>
     <h2>Estrutura do Repositório</h2>
-    <pre>
-        ├── Bradesco BERT.png
-        ├── Bradesco Regressão Logística.png
-        ├── Bradesco XGBoost.png
-        ├── BurgerKing Regressão Logística.png
-        ├── BurgerKingBR (1).csv
-        ├── BurgerKingBR BERT.png
-        ├── BurgerKingBR XGBoost.png
-        ├── Petrobras BERT.png
-        ├── Petrobras Regressão Logística.png
-        ├── Petrobras XGBoost.png
-    </pre>
     <h2>Tecnologias Utilizadas</h2>
     <ul>
         <li><strong>Python</strong>: Para construção dos modelos de aprendizado de máquina.</li>
